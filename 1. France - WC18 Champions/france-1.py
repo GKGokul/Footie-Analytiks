@@ -14,7 +14,8 @@ import os
 import matplotlib.pyplot as plt
 from FCPython import createPitch
 
-df = pd.read_json("D:\\Football\\Data\\Statsbomb\\data\\competitions.json")
+
+df = pd.read_json('ADD THE PATH TO STATSBOMB competitions.json file')
 
 # France World Cup
 req_comp_id = 43
@@ -28,6 +29,7 @@ def statsbombXYtoPitch(x,y):
     y = (pitchWidthY-y)    
     return (x,y)
 
+# PATH TO THE GAME FILES
 match_file_path = ["D:\\Football\\Data\\Statsbomb\\data\\matches\\43\\3.json"]
 
 for i in range(len(match_file_path)):
@@ -46,6 +48,7 @@ for i in range(len(match_file_path)):
 # Select France games alone
 france_matches = matches[(matches['home_team.home_team_name']=='France') | (matches['away_team.away_team_name']=='France')].sort_values(by='match_date')
 
+# ADD THE PATH TO STATSBOMB events folder
 events_path ='D:\\Football\\Data\\Statsbomb\\data\\events\\'
 
 all_shots_list = {}
