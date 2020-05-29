@@ -4,6 +4,8 @@ Have A Look at this readme to know more about this repository!
 
   This repo is a collection of all my thoughts and analysis on football. I tweet out my thoughts and this repo is one place where all the implementation details and code can be found. I've numbered the folders based on the tweets so that it'll be easier to navigate through.
 
+* Follow me on [Twitter](https://twitter.com/gkgokul10)
+
   The code is not yet clean. To help this, I've attached the results of each work in the respective folder itself with the links to each tweet here in this readme below. I'll try to make the code more clean and readable when I get some free time. 
 
 ## 1. France - WC18 Winners
