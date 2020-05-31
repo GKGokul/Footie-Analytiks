@@ -33,9 +33,15 @@ Have A Look at this readme to know more about this repository!
    * One of the goals by Liverpool is analysed and their movements are explained using a simple pitch control model.
    * Link to tweet - https://twitter.com/gkgokul10/status/1258032805121908739?s=20
    * Data Source - *LastRow*
+
+## 6. Delaunay Triangulation 
+   * Delaunay Triangulation is implemented to see the spacing and the passing options in a football game.
+   * Link to tweet - https://twitter.com/gkgokul10/status/1266684429621059590?s=20
+   * Data Source - *Bruno Dagnino, Metica Sports*
    
    
    A big thank you to the football analytics community that has been really helpful and supportive. To learn more, checkout Friends of Tracking Youtube channel. They are doing a brilliant series and open sourcing works.  
+   
 I'll mention some of the people who has helped me in this. 
 * [Laurie Shaw](https://twitter.com/EightyFivePoint)
 * [David Sumpter](https://twitter.com/Soccermatics)
